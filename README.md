@@ -3,8 +3,8 @@ Historia y Cronología de FNAF
 
 ## Receta Licuado de Leche y Banana
 
-* 1. Consigue leshe
-  2. Compra 1/2 de banana
-  3. Comprar azukar
+* 1. Consigue leche
+  2. Compra 3 de banana
+  3. Comprar asucar
   4. Mezclar los ingrediente en una licuadora
   5. Servir
