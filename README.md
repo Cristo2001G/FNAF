@@ -6,3 +6,5 @@ Historia y Cronología de FNAF
 * 1. Consigue leshe
   2. Compra 1/2 de banana
   3. Comprar azukar
+  4. Mezclar los ingrediente en una licuadora
+  5. Servir
